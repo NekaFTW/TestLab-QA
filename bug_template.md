@@ -1,4 +1,4 @@
-# BUG - Prueba de Cordura
+# BUG - Template
 
 # Index
 1. [Descripción corta (resumen) del defecto](#description)
