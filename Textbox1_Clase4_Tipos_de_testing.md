@@ -1,4 +1,4 @@
-## Tipos de test
+## Tipos de testing
 
 - **Unit tests**: probar de forma individual las funciones y métodos.
 - **Integration tests**: verifican que los diferentes módulos y servicios usados por nuestra aplicación funcionan en armonía cuando trabajan en conjunto.
